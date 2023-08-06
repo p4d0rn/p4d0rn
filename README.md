@@ -4,4 +4,3 @@
 - 🤔 A Script Kid who wants to be powerful in CODING
 - 🍔 My notebook: 
   - JAVA https://p4d0rn.gitbook.io/java
-  - Js Reverse https://p4d0rn.gitbook.io/jscrack
